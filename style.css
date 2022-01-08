@@ -1,0 +1,19 @@
+ .header{
+ 	background: url("img/mountains.jpg");
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ }
+ .authors img{
+    margin-top: -50px;
+    margin-left: px;
+ }
+ .authors .card{
+    height: 100%;
+ }
+ .authors .card:hover{
+    background: blue;
+    color: white;
+ }
+ .authors i{
+    font-size: 30px;
+ }
